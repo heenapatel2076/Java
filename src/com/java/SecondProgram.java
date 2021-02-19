@@ -6,6 +6,7 @@ public class SecondProgram {
 		// TODO Auto-generated method stub
 		
 		System.out.println("second program");
+		System.out.println(" someone working");
 
 	}
 
